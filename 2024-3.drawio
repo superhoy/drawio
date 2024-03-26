@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T04:05:37.771Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="zhdQRlANbfjlVBbCiOoO" version="24.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-26T04:09:20.063Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="2L9LXVxXzR_IeSpLxi3I" version="24.1.0" type="github" pages="2">
   <diagram name="可视化系统架构" id="lijWeqQqBT3wG75cFpR8">
     <mxGraphModel dx="964" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -140,7 +140,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AM41_uh1m9XBrLW35Atl" name="人车查控部署图">
-    <mxGraphModel dx="1877" dy="2872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="3120" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
