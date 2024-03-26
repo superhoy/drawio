@@ -1,9 +1,141 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T02:33:09.861Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.0.7" etag="uaTNZ1bnXL9EacSiQrXG" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-26T02:33:44.975Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="NWL1suSIdokeOFB-gHW-" version="24.0.7" type="github">
   <diagram name="第 1 页" id="lijWeqQqBT3wG75cFpR8">
-    <mxGraphModel>
+    <mxGraphModel dx="964" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BR4M5YidRrww4S1TY26t-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="100" y="98.75" width="413" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="BR4M5YidRrww4S1TY26t-2" value="完全手写新建" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8B3A1;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="540" y="111.25" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BR4M5YidRrww4S1TY26t-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="110" y="290" width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BR4M5YidRrww4S1TY26t-4" value="前端展示" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="115" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BR4M5YidRrww4S1TY26t-5" value="数据接口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="305" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BR4M5YidRrww4S1TY26t-6" value="RDB&lt;br&gt;（mysql，postgresql，oracle）" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;flipH=1;flipV=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="102" y="370" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="BR4M5YidRrww4S1TY26t-7" value="云洄自搭" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="108" y="111.25" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BR4M5YidRrww4S1TY26t-8" value="云洄+组件扩充" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="244.5" y="111.25" width="116.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BR4M5YidRrww4S1TY26t-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="105" y="210" width="565" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BR4M5YidRrww4S1TY26t-10" value="组件库" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="225" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BR4M5YidRrww4S1TY26t-11" value="组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="139" y="242" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BR4M5YidRrww4S1TY26t-12" value="事件中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="322" y="242" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BR4M5YidRrww4S1TY26t-13" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;组件库&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="376" y="210" width="56" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="BR4M5YidRrww4S1TY26t-14" value="数据底盘" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BR4M5YidRrww4S1TY26t-15" value="es&lt;br&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;flipH=1;flipV=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="199" y="367.5" width="80" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="BR4M5YidRrww4S1TY26t-16" value="数据仓库（greenplum，gaussdb）" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;flipH=1;flipV=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="297" y="367.5" width="80" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="BR4M5YidRrww4S1TY26t-17" value="非结构数据&lt;br&gt;(视频、图片)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;flipH=1;flipV=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="491" y="367.5" width="80" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="BR4M5YidRrww4S1TY26t-18" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;magic-api&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="368" y="290" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BR4M5YidRrww4S1TY26t-19" value="内部接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="322" y="320" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BR4M5YidRrww4S1TY26t-20" value="第三方接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="502" y="320" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BR4M5YidRrww4S1TY26t-21" value="云洄升级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="151.5" y="980" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BR4M5YidRrww4S1TY26t-22" value="第三方&lt;br&gt;数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;flipH=1;flipV=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="588.5" y="365" width="80" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="BR4M5YidRrww4S1TY26t-23" value="交通管理指挥可视化大屏" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="239.75" y="10" width="295.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BR4M5YidRrww4S1TY26t-24" value="组件扩充(导入导出)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="242" width="135" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BR4M5YidRrww4S1TY26t-25" value="云洄+组件&lt;br&gt;导出代码，二次开发" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="373" y="111.25" width="116.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BR4M5YidRrww4S1TY26t-26" value="技支" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="202" y="155.75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BR4M5YidRrww4S1TY26t-27" value="方案二" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="390" y="68.75" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BR4M5YidRrww4S1TY26t-28" value="方案一" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="180" y="68.75" width="113" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BR4M5YidRrww4S1TY26t-29" value="方案三" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="555" y="68.75" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BR4M5YidRrww4S1TY26t-30" value="指挥大屏业务指标梳理（田甜）&lt;br&gt;各业务场景、&lt;br&gt;业务模块快速交付" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;labelBackgroundColor=none;fontSize=15;fillColor=#99FFFF;" vertex="1" parent="1">
+          <mxGeometry x="690" y="115" width="130" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="BR4M5YidRrww4S1TY26t-31" value="&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;&lt;b&gt;一、解决问题&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;1、使用transform scale进行屏幕缩放适配，会使部分组件的点击事件热区移位（比如地图和图谱）&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font color=&quot;#00994d&quot; style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;2、组件间传参被限定规则，不能够随意的传参（传递对象，数组到任意组件）&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font color=&quot;#00994d&quot; style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;3、多人协作困难，一个大屏没办法拆分后多人实现，因为拆分后组件的位置会发生变化，如果使用iframe方案，又无法进行组件传参，严重限制了使用场景&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font color=&quot;#00994d&quot; style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;4、额外学习成本，需要去学习云洄的接口传参接收和处理方式&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font color=&quot;#ff8000&quot; style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;5、由于UI设计区域丰富化，导致目前的组件基本都用不上（例如丰富的卡片和各种各样的echart图），都需要自定义，失去便利性，和自己写代码没啥区别）&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;(积累组件库、同时产品设计多考虑已有组件库、样式；阶段性的升级组件库、及样式，如2-3年)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;6、接口调用麻烦，由于组建的隔离性，没办法针对一组组件使用同一个接口，只能一个一个请求，耗费请求资源和时间&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;7、组件固化导致使用现有组件变形来适配UI会产生不少调试工作量，比起自己直接实现要费时间&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;8、组件间的组合关系功能有待优化，比如组合后的组件复制到别的大屏&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font color=&quot;#00994d&quot; style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;9、云洄团队人员较少，汇报问题后需要专人修改调试后才能继续使用，会影响工期，不如自己直接写来得方便&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font color=&quot;#00994d&quot; style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;（自定义组件）&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;10，云洄系统的用户对象不明确，使用者目前只能是前端开发，但是开发使用会有以上问题，产品经理又用不了，系统既想实现低代码，又想兼顾无代码操作，最终两方面都做得不太理想&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font color=&quot;#00994d&quot; style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;目前，自定义开发组要是前端开发；&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font color=&quot;#00994d&quot; style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font color=&quot;#00994d&quot;&gt;二、研发评估&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font color=&quot;#00994d&quot; style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;工作量+开发时间:&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 13px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 13px;&quot;&gt;前端：40人天，研发；&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 13px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 13px;&quot;&gt;后端：接口，magic-api；数据权限、用户权限；&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 13px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 13px;&quot;&gt;测试：分析研判、指挥大屏搭建配合测试；指标库累计；&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font color=&quot;#00994d&quot; style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 13px;&quot;&gt;发版：6-30？&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="480" width="600" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="BR4M5YidRrww4S1TY26t-32" value="GIS空间数据" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;flipH=1;flipV=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="394" y="367.5" width="80" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="BR4M5YidRrww4S1TY26t-33" value="指挥大屏实现" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="273.5" y="1020" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BR4M5YidRrww4S1TY26t-34" value="分析研判大屏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="273.5" y="1060" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BR4M5YidRrww4S1TY26t-35" value="指挥大屏指标梳理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="151.5" y="1020" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BR4M5YidRrww4S1TY26t-36" value="5-20-----6-20t" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#00994D;" vertex="1" parent="1">
+          <mxGeometry x="255.5" y="940" width="162" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BR4M5YidRrww4S1TY26t-37" value="5-20" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#00994D;" vertex="1" parent="1">
+          <mxGeometry x="243" y="940" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BR4M5YidRrww4S1TY26t-38" value="3-25-----5-20" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#00994D;" vertex="1" parent="1">
+          <mxGeometry x="120.5" y="940" width="162" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BR4M5YidRrww4S1TY26t-39" value="指挥分析研判梳理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="151.5" y="1060" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BR4M5YidRrww4S1TY26t-40" value="指挥大屏" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#00994D;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1015" width="101.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BR4M5YidRrww4S1TY26t-41" value="指挥分析研判" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#00994D;" vertex="1" parent="1">
+          <mxGeometry x="46.5" y="1055" width="92" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BR4M5YidRrww4S1TY26t-42" value="云洄" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#00994D;" vertex="1" parent="1">
+          <mxGeometry x="65.75" y="980" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BR4M5YidRrww4S1TY26t-43" value="模拟数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="139" y="320" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BR4M5YidRrww4S1TY26t-44" value="时间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#00994D;" vertex="1" parent="1">
+          <mxGeometry x="65.75" y="940" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
