@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T07:15:45.680Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="WenO0oqgpqqF6Krm49ax" version="24.0.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-03-26T09:16:26.848Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="nGweMLv8NjmPJk8Zv2JE" version="24.1.0" type="github" pages="7">
   <diagram name="可视化系统架构" id="lijWeqQqBT3wG75cFpR8">
-    <mxGraphModel dx="1434" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,11 +34,8 @@
         <mxCell id="BR4M5YidRrww4S1TY26t-10" value="组件库" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="10" y="225" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BR4M5YidRrww4S1TY26t-11" value="组件" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="BR4M5YidRrww4S1TY26t-11" value="自有组件" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="139" y="242" width="110" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="BR4M5YidRrww4S1TY26t-12" value="事件中心" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="322" y="242" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BR4M5YidRrww4S1TY26t-13" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;组件库&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="376" y="210" width="56" height="25" as="geometry" />
@@ -73,8 +70,8 @@
         <mxCell id="BR4M5YidRrww4S1TY26t-23" value="交通管理指挥可视化大屏" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="239.75" y="10" width="295.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BR4M5YidRrww4S1TY26t-24" value="组件扩充(导入导出)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="500" y="242" width="135" height="20" as="geometry" />
+        <mxCell id="BR4M5YidRrww4S1TY26t-24" value="在线自定义组件" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="502" y="242" width="135" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BR4M5YidRrww4S1TY26t-25" value="云洄+组件&lt;br&gt;导出代码，二次开发" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="373" y="111.25" width="116.5" height="50" as="geometry" />
