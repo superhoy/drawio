@@ -361,7 +361,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="人车查控-部署图" id="eRgsoDsjgG8tyZDRv0Gx">
-    <mxGraphModel dx="4097" dy="4447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4097" dy="4447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="z-ZgwdJvU34RaMINjAqT-0" />
         <mxCell id="z-ZgwdJvU34RaMINjAqT-1" parent="z-ZgwdJvU34RaMINjAqT-0" />
