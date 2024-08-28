@@ -687,7 +687,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="人车查控部署图 的副本" id="_z0VkgG0boeFVZx2SceD">
-    <mxGraphModel dx="2261" dy="3076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3217" dy="3568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="TII7FOp6rYchTEW7tLyp-0" />
         <mxCell id="TII7FOp6rYchTEW7tLyp-1" parent="TII7FOp6rYchTEW7tLyp-0" />
@@ -817,6 +817,8 @@
             <Array as="points">
               <mxPoint x="960" y="-1590" />
               <mxPoint x="960" y="-1763" />
+              <mxPoint x="1040" y="-1763" />
+              <mxPoint x="1040" y="-1760" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -912,9 +914,6 @@
         </mxCell>
         <mxCell id="TII7FOp6rYchTEW7tLyp-77" value="&lt;span style=&quot;&quot;&gt;RabbitMQ&lt;br&gt;中间件服务器1&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="TII7FOp6rYchTEW7tLyp-1">
           <mxGeometry x="1062.96" y="-1302" width="111" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="TII7FOp6rYchTEW7tLyp-80" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;labelBorderColor=none;strokeColor=#666666;dashed=1;dashPattern=12 12;imageBorder=#666;" vertex="1" parent="TII7FOp6rYchTEW7tLyp-1">
-          <mxGeometry x="495" y="-1598" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TII7FOp6rYchTEW7tLyp-82" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Elastic-Cluster&lt;br&gt;3台以上服务器集群&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;" vertex="1" parent="TII7FOp6rYchTEW7tLyp-1">
           <mxGeometry x="461" y="-1153.5" width="182" height="42" as="geometry" />
@@ -1048,7 +1047,7 @@
         <mxCell id="TII7FOp6rYchTEW7tLyp-138" value="&lt;div style=&quot;text-align: center;&quot;&gt;data-acces-service&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;数据接入服务&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;（可多台）&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="TII7FOp6rYchTEW7tLyp-1">
           <mxGeometry x="-88.5" y="-1149" width="110" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="TII7FOp6rYchTEW7tLyp-146" value="" style="group;strokeColor=default;dashed=1;dashPattern=12 12;" vertex="1" connectable="0" parent="TII7FOp6rYchTEW7tLyp-1">
+        <mxCell id="TII7FOp6rYchTEW7tLyp-146" value="" style="group;strokeColor=#d6b656;dashed=1;dashPattern=12 12;fillColor=#fff2cc;" vertex="1" connectable="0" parent="TII7FOp6rYchTEW7tLyp-1">
           <mxGeometry x="462" y="-1235.5" width="153" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TII7FOp6rYchTEW7tLyp-147" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png" vertex="1" parent="TII7FOp6rYchTEW7tLyp-146">
@@ -1066,7 +1065,7 @@
             <mxPoint x="130" y="-2280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TII7FOp6rYchTEW7tLyp-151" value="" style="group;strokeColor=default;dashed=1;dashPattern=12 12;" vertex="1" connectable="0" parent="TII7FOp6rYchTEW7tLyp-1">
+        <mxCell id="TII7FOp6rYchTEW7tLyp-151" value="" style="group;strokeColor=#d6b656;dashed=1;dashPattern=12 12;fillColor=#fff2cc;" vertex="1" connectable="0" parent="TII7FOp6rYchTEW7tLyp-1">
           <mxGeometry x="660" y="-1239.5" width="121" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TII7FOp6rYchTEW7tLyp-152" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png" vertex="1" parent="TII7FOp6rYchTEW7tLyp-151">
@@ -1075,7 +1074,7 @@
         <mxCell id="TII7FOp6rYchTEW7tLyp-153" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png" vertex="1" parent="TII7FOp6rYchTEW7tLyp-151">
           <mxGeometry width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TII7FOp6rYchTEW7tLyp-154" value="" style="group;dashed=1;dashPattern=8 8;strokeColor=default;" vertex="1" connectable="0" parent="TII7FOp6rYchTEW7tLyp-1">
+        <mxCell id="TII7FOp6rYchTEW7tLyp-154" value="" style="group;dashed=1;dashPattern=8 8;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" connectable="0" parent="TII7FOp6rYchTEW7tLyp-1">
           <mxGeometry x="287" y="-1235.5" width="153" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TII7FOp6rYchTEW7tLyp-155" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png" vertex="1" parent="TII7FOp6rYchTEW7tLyp-154">
@@ -1086,9 +1085,6 @@
         </mxCell>
         <mxCell id="TII7FOp6rYchTEW7tLyp-157" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png" vertex="1" parent="TII7FOp6rYchTEW7tLyp-154">
           <mxGeometry width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="-GMzdAjaeAvmygAUy8w_-0" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;labelBorderColor=none;strokeColor=#666666;dashed=1;dashPattern=12 12;imageBorder=#666;" vertex="1" parent="TII7FOp6rYchTEW7tLyp-1">
-          <mxGeometry x="692" y="-1600" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-GMzdAjaeAvmygAUy8w_-1" value="&lt;div&gt;&lt;span style=&quot;font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;dap-main-service&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;dap-data-adapter-service&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;dap-alarm-server&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;dap-ftp-passcar&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;dap-data-access-service&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;dap-message-distribute-main&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;dap-fulltext-persistence&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b&gt;应用服务器4&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="TII7FOp6rYchTEW7tLyp-1">
           <mxGeometry x="659" y="-1518" width="199" height="168" as="geometry" />
@@ -1101,6 +1097,12 @@
         </mxCell>
         <mxCell id="TII7FOp6rYchTEW7tLyp-159" value="网络安全边界" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=33;fontFamily=Helvetica;fontColor=#FF0000;labelBackgroundColor=none;" vertex="1" parent="TII7FOp6rYchTEW7tLyp-1">
           <mxGeometry x="100" y="-1781" width="60" height="298" as="geometry" />
+        </mxCell>
+        <mxCell id="eLvZS4AGXCagxPqOneTJ-5" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;imageBackground=none;imageBorder=none;dashed=1;dashPattern=12 12;" vertex="1" parent="TII7FOp6rYchTEW7tLyp-1">
+          <mxGeometry x="669" y="-1601" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eLvZS4AGXCagxPqOneTJ-6" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;imageBackground=none;imageBorder=none;dashed=1;dashPattern=12 12;" vertex="1" parent="TII7FOp6rYchTEW7tLyp-1">
+          <mxGeometry x="470" y="-1600" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
