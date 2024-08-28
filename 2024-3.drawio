@@ -1100,7 +1100,7 @@
             <mxPoint x="130" y="-2101" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TII7FOp6rYchTEW7tLyp-159" value="网络安全边界" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=33;fontFamily=Helvetica;fontColor=#FF0000;labelBackgroundColor=none;" vertex="1" parent="TII7FOp6rYchTEW7tLyp-1">
+        <mxCell id="TII7FOp6rYchTEW7tLyp-159" value="网络安全边界" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=33;fontFamily=Helvetica;fontColor=#FF0000;labelBackgroundColor=none;opacity=0;" vertex="1" parent="TII7FOp6rYchTEW7tLyp-1">
           <mxGeometry x="100" y="-1781" width="60" height="298" as="geometry" />
         </mxCell>
         <mxCell id="eLvZS4AGXCagxPqOneTJ-5" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;imageBackground=none;imageBorder=none;dashed=1;dashPattern=12 12;" vertex="1" parent="TII7FOp6rYchTEW7tLyp-1">
